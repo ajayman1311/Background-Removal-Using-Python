@@ -1,2 +1,6 @@
-# Background-Removal-Using-Python
-Hello everyone!  Hope you well, today I'm presenting a background removal program. No need to use 3rd party application for background removing. Use this program and remove Photo background. it's work properly and better then other application.
+#pip install rembg 
+(if it's not working then you install) #pip install rembg==2.0.28
+
+#pip install pillow
+
+NOTE:- Keep sure, you photo store in same folder other wise it's you should face difficulty. 
